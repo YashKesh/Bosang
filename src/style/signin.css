@@ -1,0 +1,144 @@
+/* section{
+    height: 100vh;
+    width: 1000vw;
+} */
+
+.Signin-section{
+    height: 10%;
+    
+}
+.signinform{
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%), #021526;
+    width: 45%;
+    height: 80%;
+    border-radius: 5%;
+    padding-left: 15%;
+    padding-top: 1%;
+    margin-left: 5%;
+}
+
+
+.leftside1 {
+    /* background-color: black; */
+    color: white;
+    padding-top: 40px;
+    padding-left: 55px;
+    height: 640px;
+}
+
+.signinimg{
+    align-items: center;
+    height: 240px;
+    width: 57px;
+    position: relative;
+    left: 35rem;
+    top: -50rem;
+    /* bottom: ; */
+}
+.signinimg img{
+    height: 370px;
+    width: 400px;
+    position: relative;
+    bottom: 88px;
+}
+.ph1 {
+    position: relative;
+    left: 65rem;
+    bottom: 80rem;
+    height: 502px;
+}
+.google1{
+    position: relative;
+    left: 30rem;
+    bottom: 56rem;
+    width: 200px;
+}
+.app1{
+    position: relative;
+    left: 73rem;
+    bottom: 98rem;
+    width: 200px;
+}
+
+
+input {
+    /* width: 70%; */
+    border: 2px solid #FFD700;
+    border-radius: 50px;
+    background-color: #8FC6C7;
+}
+.headingofsignin{
+position: relative;
+left: -45%;
+    
+}
+.name1{
+    position: relative;
+    left: -187px;
+    bottom: 29px;
+    font-size: larger;
+    margin-left: 20px;
+}
+.name1 label{
+    position: relative;
+    top: 70px;
+}
+.name1 input{
+    padding: 5px;
+    width: 65%;
+    position: relative;
+    left: 30px;
+    top: 70px;
+}
+.password1{
+    position: relative;
+    left: -187px;
+    bottom: 29px;
+    font-size: larger;
+    margin-left: 20px;
+}
+.password1 label{
+    position: relative;
+    top: 70px;
+}
+.password1 input{
+    padding: 5px;
+    width: 65%;
+    position: relative;
+    left: 35px;
+    top: 70px;
+}
+.signinform h2{
+position: relative;
+top: 25%;
+left: -10%;
+font-size: 1.3rem;
+}
+
+
+.signin1 button{
+    position: relative;
+    bottom: -104px;
+    color: white;
+    background-color: #021526;
+    border: 2px solid #FFD700;
+    border-radius: 30px;
+    width: 120px;
+    height: 40px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.signup1 button{
+    position: relative;
+    /* bottom: -146px;
+     */
+     top: 8rem;
+    color: white;
+    background-color: #021526;
+    border: 2px solid #FFD700;
+    border-radius: 30px;
+    width: 120px;
+    height: 40px;
+    font-size: 1rem;
+    font-weight: bold;
+}

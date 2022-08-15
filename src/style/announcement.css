@@ -1,0 +1,113 @@
+.annoucnement {
+    /* background-color: black; */
+    color: white;
+    height: 800px;
+
+}
+
+.announcementheading {
+    font-weight: 700;
+    font-size: 50px;
+    padding-left: 200px;
+}
+
+.ainfo {
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+    border: 1px solid #FFFFFF;
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(60px);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 800px;
+    position: relative;
+    left: 400px;
+    margin-top: 50px;
+}
+.row11{
+    margin: 30px auto;
+    width: 200px;
+}
+.sd1 {
+
+    height: 200px;
+    position: relative;
+    width: 100%;
+    margin-bottom: 170px;
+   
+
+}
+.sd1{
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+}
+.sd1::before{
+    height: 71%;
+    width: 71%;
+    position: absolute;
+    content: '';
+    left: 29px;
+    top: 128px;
+    transform: rotate(45deg);
+    z-index: -1;
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+    
+}
+.annoucnement {
+    /* background-color: black; */
+    color: white;
+    height: 800px;
+
+}
+
+.announcementheading {
+    font-weight: 700;
+    font-size: 2.5rem;
+    padding-left: 200px;
+    margin-top: 4rem;
+}
+.bottom2{
+    z-index: -1;
+    margin-top: 4rem;
+}
+
+.ainfo {
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+    border: 1px solid #FFFFFF;
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(60px);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 800px;
+    position: relative;
+    left: 400px;
+    margin-top: 50px;
+}
+.row11{
+    margin: 30px auto;
+    width: 200px;
+}
+.sd1 {
+
+    height: 200px;
+    position: relative;
+    width: 100%;
+    margin-bottom: 170px;
+   
+
+}
+.sd1{
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+}
+.sd1::before{
+    height: 71%;
+    width: 71%;
+    position: absolute;
+    content: '';
+    left: 29px;
+    top: 128px;
+    transform: rotate(45deg);
+    z-index: -1;
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+    
+}

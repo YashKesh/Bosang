@@ -1,0 +1,243 @@
+.section {
+    /* background-color: black; */
+    color: white;
+    padding-top: 40px;
+    padding-left: 50px;
+    height: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.leftside {
+    /* background-color: black; */
+    color: white;
+       padding-top: 50px;
+    padding-left: 50px;
+}
+
+form {
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%), #021526;
+    width: 800px;
+    height: 450px;
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    margin-left: 20px;
+
+}
+
+.username label input {
+    position: relative;
+    left: 400px;
+    bottom: 50%;
+}
+
+input {
+    padding: 5px;
+    width: 25%;
+}
+
+.name {
+    padding-top: 10px;
+    font-size: larger;
+
+}
+
+.username {
+    position: relative;
+    left: 200px;
+    bottom: 88px;
+    font-size: larger;
+    margin-left: 20px;
+}
+
+#Username {
+    position: relative;
+    top: 5px;
+    right: 3px;
+
+}
+
+.contactnumber {
+    position: relative;
+    bottom: 16px;
+    font-size: larger;
+
+}
+
+.password {
+    position: relative;
+    left: 217px;
+    bottom: 77px;
+    font-size: larger;
+
+
+}
+
+.reenterpassword {
+    position: relative;
+    left: 452px;
+    bottom: 139px;
+    font-size: larger;
+
+}
+
+/* button{
+    position: relative;
+    bottom: 80px;
+    color: white;
+    background-color: #021526 ;
+    border:2px solid #FFD700;
+    border-radius: 30px;
+    width: 90px;
+    height: 40px;
+} */
+.signin {
+    position: relative;
+    bottom: 10px;
+}
+
+.signin h4 {
+    font-size: 20px;
+    position: relative;
+    bottom: 45px;
+    left: 50px;
+}
+
+.signup button {
+    position: relative;
+    bottom: 80px;
+    color: white;
+    background-color: #021526;
+    border: 2px solid #FFD700;
+    border-radius: 30px;
+    width: 138px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.signin button {
+    position: relative;
+    left: 300px;
+    position: relative;
+    bottom: 80px;
+    color: white;
+    background-color: #021526;
+    border: 2px solid #FFD700;
+    border-radius: 30px;
+    width: 138px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+
+.dot {
+    height: 350px;
+    width: 350px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    /* bottom: 352px; */
+    background: linear-gradient( 140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%), #021526;
+}
+
+.dot1 {
+    height: 90px;
+    width: 90px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    bottom: 25rem;
+    left: -46px;
+    background-image: linear-gradient(to right, #0367A6, #8FC6C7);
+}
+
+.dot2 {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    bottom: 34rem;
+    left: -96px;
+    background-image: linear-gradient(to right, #0367A6, #8FC6C7);
+}
+
+.dot3 {
+    height: 90px;
+    width: 90px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    bottom: 12rem;
+    left: 349px;
+    background-image: linear-gradient(to right, #0367A6, #8FC6C7);
+}
+
+.dot4 {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    bottom: 12rem;
+    left: 440px;
+    background-image: linear-gradient(to right, #0367A6, #8FC6C7);
+}
+
+.dotsection {
+    position: relative;
+    left: 1008px;
+    bottom: 375px;
+}
+
+
+
+
+/* .cir{
+    border-radius: 50%;
+    background-color: #8FC6C7;
+    height: 50%
+    
+} */
+
+
+.ph {
+    position: relative;
+    left: 55rem;
+    bottom: 67rem;
+    height: 540px;
+}
+
+
+
+input {
+    /* width: 70%; */
+    border: 2px solid #FFD700;
+    border-radius: 50px;
+    background-color: #8FC6C7;
+}
+
+.google {
+    position: relative;
+    left: 30.5rem;
+    bottom: 37rem;
+    width: 200px;
+}
+
+.app {
+    position: relative;
+    left: 73rem;
+    bottom: 79rem;
+    width: 200px;
+}

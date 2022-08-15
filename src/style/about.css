@@ -1,0 +1,127 @@
+main {
+    height: 300vh;
+    width: 100vw;
+    background-color: #021526;
+    color: white;
+
+}
+
+.atop {
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(3, 103, 166, 0.44) 92.44%);
+    height: 15%;
+    padding: 30px;
+}
+.atop-text{
+    margin-left: 5%;
+}
+
+.atopspan {
+    margin-bottom: -1%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9BB35;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+    margin-top: 2%;
+    margin-left: 1%;
+    
+}
+
+.atoph1 {
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.atoppara {
+    width: 50%;
+    padding-top: 3px;
+    font-weight: 400;
+    margin-left: 1%;
+}
+
+.yellowcoinlogo {
+    width: 381px;
+    height: 381px;
+    position: relative;
+    left: 58rem;
+    bottom: 16rem;
+ 
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-end; */
+}
+
+.abottomh1 {
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.bottommain {
+    display: grid;
+    grid-template-rows: 379px;
+    grid-template-columns: 230px 230px 230px;
+    row-gap: 50px;
+    column-gap: 80px;
+    padding-left: 316px;
+    padding-top: 20px;
+}
+
+.bottommain1 {
+    display: grid;
+    grid-template-rows: 379px 359px;
+    grid-template-columns: 230px 230px 230px;
+    column-gap: 80px;
+    padding-left: 453px;
+    padding-top: 1px;
+}
+
+.abottom {
+    /* position: absolute;
+    margin: 48px; */
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, #0367a670 92.44%);
+    border-radius: 30px;
+    width: 230px;
+    height: 310px;
+}
+
+#aitem {
+    background: linear-gradient(135.86deg, rgba(255, 255, 255, 0.06) -22.11%, rgba(255, 255, 255, 0.32) 155.09%);
+    border: 1px solid #D0D0D0;
+    height: 134px;
+    width: 180px;
+    margin: 22px;
+}
+
+#aitemheading {
+
+    line-height: 75px;
+    text-align: center;
+    text-decoration-line: underline;
+    display: block;
+    font-size: 20px;
+    margin-block-start: 1.67em;
+    margin-block-end: 2.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.abtn {
+    background: #0367A6;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -4rem;
+    left: 1rem;
+    width: 12rem;
+    padding: 3px;
+    height: 39px;
+    margin: -4px;
+}

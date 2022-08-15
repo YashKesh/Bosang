@@ -1,0 +1,119 @@
+.ccontainer {
+    /* background-color: black; */
+    color: white;
+
+}
+
+.cimg {
+    height: 600px;
+    widows: 600px;
+    display: flex;
+    justify-content: center;
+    filter: drop-shadow(20px 5px 20px rgba(255, 255, 255, 0.33));
+}
+
+.h1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    position: relative;
+    bottom: 196px;
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 173px;
+    font-size: x-large;
+}
+
+.Chr {
+    position: relative;
+    bottom: 95px;
+
+}
+.cbutton{
+    display: flex;
+    justify-content: center;
+}
+
+.cbutton button {
+    color: white;
+    background: #0367A6;
+    border: 2px solid #0367A6;
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(60px);
+    border-radius: 40px;
+    width: 225px;
+    height: 80px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 134px;
+}
+.cheading{
+    display: flex;
+    justify-content: center;
+}
+.cheading h2{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 105px;
+    position: relative;
+    bottom: 68px;
+}
+.cbutton1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 68px;
+}
+.cbutton1 button {
+    color: white;
+    background: rgba(255, 255, 255, 0.13);
+    border: 2px solid rgba(255, 255, 255, 0.4);
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(60px);
+    border-radius: 40px;
+    width: 425px;
+    height: 106px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.para1 {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    position: relative;
+    bottom: 35px;
+}
+.cbutton2{
+    display: flex;
+    justify-content: center;
+
+    padding-bottom: 20px;
+}
+.cbutton2 button {
+    color: white;
+    background: #0367A6;
+    border: 1px solid #FFFFFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 248px;
+    height: 68px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    
+}

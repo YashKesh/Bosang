@@ -1,0 +1,64 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    color: #ffff;
+    font-weight: 1000;
+    font-style: normal;
+font-weight: 700;
+/* font-size: 50px; */
+/* line-height: 120px; */
+text-align: center;
+  }
+  
+  .slide img{
+    height: 12vhpx;
+    width: 12vw;
+  }
+  
+  .container{
+    margin: auto;
+    margin-top: 5rem;
+    position: relative;
+    width: 100vw;
+    background: linear-gradient(140.87deg, #8FC6C7 -29.92%, rgba(20, 114, 170, 0.506176) 77.98%, rgba(10, 108, 168, 0.467985) 87.28%, rgba(3, 103, 166, 0.44) 92.44%), #021526;
+    height: 25vh;
+    /* padding: 8.6rem 0; */
+  }
+  .contact{
+    margin-top: -0.5%;
+  }
+  
+  .customer_logo_slider {
+    /* margin-top: %; */
+    animation: scroll 40s linear infinite;
+    display: flex;
+    gap: 1rem;
+    width: calc(250px * 14);
+  }
+  .slider{
+    animation: none;
+  }
+  
+  .container .slide {
+    height: 100px;
+    width: 250px;
+  }
+  
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+  
+    100% {
+      transform: translateX(calc(250px * 7));
+    }
+  
+  }

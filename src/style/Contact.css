@@ -1,0 +1,12 @@
+.contact-flex{
+    display: flex;
+    justify-content: center;
+    gap: 19rem;
+    margin-left: 5.5%;
+  }
+.support-img{
+    margin-top:3.5% ;
+}
+  .support-img img{
+    height: 15vh;
+  }
